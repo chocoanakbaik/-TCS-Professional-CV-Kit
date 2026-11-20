@@ -1,45 +1,21 @@
-# TCS Professional CV Kit
+# TCS Account Registration
 
-**Perangkat template dan panduan CV profesional untuk pencari kerja.**
+Repository ini disiapkan sebagai basis pengembangan sistem pendaftaran akun untuk ekosistem **The Choco Studios (TCS)**.
 
-- **Penerbit:** The Choco Studios (TCS)
-- **Bahasa:** Bahasa Indonesia sebagai bahasa utama; bahasa lain mengikuti template yang tersedia
-- **Sasaran pengguna:** Pencari kerja, lulusan baru, dan profesional
-- **Kategori:** Karier dan dokumen profesional
+## Tujuan
 
-## Ringkasan
+Menjadi repositori utama untuk membangun dan memelihara alur pendaftaran akun pengguna TCS.
 
-TCS Professional CV Kit dirancang untuk membantu pengguna menyusun CV yang mudah dibaca, terstruktur, dan relevan dengan posisi yang dilamar. Produk berfokus pada template, panduan isi, dan penyesuaian informasi agar pengalaman serta keterampilan tersampaikan dengan jelas.
+## Status
 
-## Ruang lingkup produk
+**Tahap persiapan.** Saat ini repository hanya berisi dokumentasi awal. Sistem pendaftaran, autentikasi, database, API, dan konfigurasi deployment belum diimplementasikan.
 
-Paket ini ditujukan untuk menyediakan template CV dan panduan pengisian serta penyesuaian berdasarkan pekerjaan sasaran. Format, file, contoh, dan fitur yang tersedia harus dikonfirmasi dari isi paket rilis aktual.
+## Catatan keamanan
 
-## Cara menggunakan
+- Jangan menyimpan kata sandi, token akses, private key, atau kredensial aktif di repository.
+- Data pribadi pengguna hanya boleh diproses dan disimpan melalui layanan yang memang disiapkan untuk kebutuhan tersebut.
+- Setiap implementasi autentikasi harus menggunakan praktik keamanan yang sesuai, termasuk penyimpanan kata sandi dalam bentuk hash yang aman.
 
-1. Unduh paket rilis resmi.
-2. Pilih template yang sesuai dengan pengalaman dan jenis pekerjaan.
-3. Isi informasi pendidikan, pengalaman, keterampilan, dan pencapaian yang benar.
-4. Sesuaikan kata-kata dan urutan informasi dengan persyaratan lowongan.
-5. Periksa ejaan, tautan, tata letak, dan hasil ekspor sebelum mengirim CV.
+---
 
-## Panduan kualitas
-
-Gunakan informasi yang akurat dan dapat dipertanggungjawabkan. Jangan menambahkan gelar, pengalaman, sertifikasi, atau keterampilan yang tidak dimiliki. Sesuaikan CV dengan lowongan tanpa mengubah fakta.
-
-## Batasan
-
-Template tidak menjamin diterima bekerja atau lolos sistem penyaringan rekrutmen. Hasil akhir bergantung pada isi, kecocokan posisi, kebutuhan pemberi kerja, dan format yang digunakan.
-
-## Privasi
-
-CV dapat memuat alamat, nomor telepon, surel, riwayat pekerjaan, dan data pribadi lain. Jangan mengunggah atau membagikannya ke layanan yang tidak dipercaya.
-
-## Dokumentasi
-
-Gunakan panduan, lisensi, changelog, dan contoh yang tersedia di dalam paket.
-
-## Penerbit
-
-**The Choco Studios (TCS)**  
-Kontak: thechocostudio@gmail.com
+**The Choco Studios (TCS)**
