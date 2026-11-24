@@ -1,21 +1,9 @@
 # TCS Account Registration
 
-Repository ini disiapkan sebagai basis pengembangan sistem pendaftaran akun untuk ekosistem **The Choco Studios (TCS)**.
+**Status: dokumen perencanaan; belum ada implementasi.**
 
-## Tujuan
+Repositori ini disiapkan sebagai catatan awal sistem pendaftaran akun untuk ekosistem The Choco Studios (TCS). Audit 24 November 2026 menemukan hanya README yang tersedia. Sistem pendaftaran, autentikasi, database, API, antarmuka, dan konfigurasi deployment belum diimplementasikan.
 
-Menjadi repositori utama untuk membangun dan memelihara alur pendaftaran akun pengguna TCS.
+Nama repository GitHub `-TCS-Professional-CV-Kit` merupakan slug historis yang tidak sesuai dengan isi repositori. Repositori ini bukan CV Kit dan tidak boleh dipresentasikan sebagai produk CV atau sistem akun yang sudah berfungsi.
 
-## Status
-
-**Tahap persiapan.** Saat ini repository hanya berisi dokumentasi awal. Sistem pendaftaran, autentikasi, database, API, dan konfigurasi deployment belum diimplementasikan.
-
-## Catatan keamanan
-
-- Jangan menyimpan kata sandi, token akses, private key, atau kredensial aktif di repository.
-- Data pribadi pengguna hanya boleh diproses dan disimpan melalui layanan yang memang disiapkan untuk kebutuhan tersebut.
-- Setiap implementasi autentikasi harus menggunakan praktik keamanan yang sesuai, termasuk penyimpanan kata sandi dalam bentuk hash yang aman.
-
----
-
-**The Choco Studios (TCS)**
+Setiap implementasi autentikasi mendatang harus menggunakan penyimpanan kata sandi yang aman, proteksi sesi, validasi server, dan pengujian keamanan sebelum dipakai pengguna.
